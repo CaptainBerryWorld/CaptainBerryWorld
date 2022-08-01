@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @CaptainBerryWorld
+- 👋 Hi, I’m @NimoAcheampong
 - 👀 I’m interested in computer science related topics.
 - 🌱 I’m currently learning a lot
 - 💞️ I’m looking to collaborate on anything for learning purposes
